@@ -60,11 +60,6 @@ Aplicación desarrollada para gestionar calificaciones de estudiantes, permitien
    flutter run
    ```
 3. Asegúrate de tener un emulador o dispositivo conectado.
-
-## 📸 Capturas de pantalla
-
-*(Aquí puedes subir imágenes del formulario, tablas de notas, etc.)*
-
 ## 👨‍💻 Autor
 
 - Nombre: Paúl Roche
