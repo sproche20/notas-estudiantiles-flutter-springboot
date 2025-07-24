@@ -72,6 +72,6 @@ Aplicación desarrollada para gestionar calificaciones de estudiantes, permitien
 
 ### 📊 Tabla de notas finales
 
-![Notas por estudiante](images/tablas_notas.png)
+![Notas por estudiante](images/tablas.jpg)
 
 > Este proyecto fue desarrollado como práctica para reforzar el uso combinado de Flutter y Spring Boot en una aplicación educativa real.
