@@ -68,10 +68,10 @@ Aplicación desarrollada para gestionar calificaciones de estudiantes, permitien
 ---
 ### 📋 Formulario de calificaciones
 
-![Formulario Flutter](images/formulario_calificaciones.jpg)
+![Formulario Flutter](images/formulario.png)
 
 ### 📊 Tabla de notas finales
 
-![Notas por estudiante](images/tablas_notas.jpg)
+![Notas por estudiante](images/tablas_notas.png)
 
 > Este proyecto fue desarrollado como práctica para reforzar el uso combinado de Flutter y Spring Boot en una aplicación educativa real.
