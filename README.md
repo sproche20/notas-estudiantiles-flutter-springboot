@@ -55,15 +55,11 @@ Aplicación desarrollada para gestionar calificaciones de estudiantes, permitien
 ### Frontend
 1. Abre la carpeta del frontend con VS Code o Android Studio.
 2. Ejecuta el comando:  
-   ```
-   flutter pub get
-   flutter run
-   ```
-3. Asegúrate de tener un emulador o dispositivo conectado.
-## 👨‍💻 Autor
-
-- Nombre: Paúl Roche
-- GitHub: [@sproche20]https://github.com/sproche20
+<pre lang="markdown"> ```bash flutter pub get flutter run ``` </pre>
+4. Asegúrate de tener un emulador o dispositivo conectado.
+👨‍💻 Autor  
+**Paúl Roche**  
+🔗 [GitHub: @sproche20](https://github.com/sproche20)
 
 ---
 
