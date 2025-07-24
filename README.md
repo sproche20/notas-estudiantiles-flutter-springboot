@@ -62,7 +62,7 @@ Aplicación desarrollada para gestionar calificaciones de estudiantes, permitien
 4. Asegúrate de tener un emulador o dispositivo conectado.
 
 👨‍💻 Autor  
-**Paúl Roche**  
+**Paúl Roche** 
 🔗 [GitHub: @sproche20](https://github.com/sproche20)
 
 ---
