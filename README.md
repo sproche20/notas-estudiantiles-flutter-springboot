@@ -66,5 +66,12 @@ Aplicación desarrollada para gestionar calificaciones de estudiantes, permitien
 🔗 [GitHub: @sproche20](https://github.com/sproche20)
 
 ---
+### 📋 Formulario de calificaciones
+
+![Formulario Flutter](imagenes/formulario_calificaciones.jpg)
+
+### 📊 Tabla de notas finales
+
+![Notas por estudiante](imagenes/tablas_notas.jpg)
 
 > Este proyecto fue desarrollado como práctica para reforzar el uso combinado de Flutter y Spring Boot en una aplicación educativa real.
